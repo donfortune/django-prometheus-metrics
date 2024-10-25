@@ -28,5 +28,5 @@ To use the metrics in your Django application, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/django-prometheus-metrics.git
+   git clone https://github.com/donfortune/django-prometheus-metrics.git
    cd django-prometheus-metrics
