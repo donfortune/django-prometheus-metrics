@@ -30,3 +30,5 @@ To use the metrics in your Django application, follow these steps:
    ```bash
    git clone https://github.com/donfortune/django-prometheus-metrics.git
    cd django-prometheus-metrics
+
+2.
